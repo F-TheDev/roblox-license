@@ -1,3 +1,5 @@
 {
-  "latestVersion": 1.2
+  "maintenance": true,
+  "latestVersion": 1.2,
+  "minimumSupportedVersion": 1.2
 }
